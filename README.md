@@ -35,7 +35,7 @@ Cybersecurity is an evolving field, and the information provided in this reposit
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the content as you see fit.
+This repository is licensed under the [MIT License]. Feel free to use, modify, and distribute the content as you see fit.
 
 ---
 
