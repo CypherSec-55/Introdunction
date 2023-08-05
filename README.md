@@ -11,7 +11,7 @@ Welcome to the Cyber Security Learning Repository! This repository is your compr
 
 ## Cyber Security Roadmap
 
-Our carefully crafted roadmap outlines the key areas of cybersecurity you should focus on in 2023. It's designed to provide a structured learning path that covers everything from basics to specialized topics. Check out the [Cyber Security Roadmap](Roadmap.md) to plan your learning journey.
+Our carefully crafted roadmap outlines the key areas of cybersecurity you should focus on in 2023. It's designed to provide a structured learning path that covers everything from basics to specialized topics. Check out the [Cyber Security Roadmap](https://github.com/VinnovateIT-CyberSec/Introdunction/blob/main/Roadmap%20CyberSec/cyber-security.pdf) to plan your learning journey.
 
 ## Projects
 
