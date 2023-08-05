@@ -27,7 +27,7 @@ Visual learning can be incredibly effective. Our YouTube playlist features a sel
 
 ## Contributing
 
-We believe in the power of collaborative learning. If you've come across a great resource, created an enlightening project, or want to share your insights, feel free to contribute! Check out our [Contribution Guidelines](CONTRIBUTING.md) to learn how you can be a part of this repository.
+We believe in the power of collaborative learning. If you've come across a great resource, created an enlightening project, or want to share your insights, feel free to contribute! Check out our [Contribution Guidelines](contribution-guidelines.md) to learn how you can be a part of this repository.
 
 ## Disclaimer
 
