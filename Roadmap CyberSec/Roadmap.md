@@ -1,3 +1,4 @@
+
 # Cyber Security Roadmap for 2023
 
 Welcome to the Cyber Security Roadmap for 2023! This roadmap is designed to guide you through the essential areas of cybersecurity that you should focus on in the coming year. As the threat landscape evolves rapidly, staying updated and proactive is crucial to safeguarding your digital assets and privacy. Whether you're a beginner or an experienced professional, this roadmap has something for everyone.
