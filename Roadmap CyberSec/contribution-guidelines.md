@@ -25,7 +25,7 @@ Thank you for considering contributing to the Cyber Security Learning Repository
 
 - **Quality and Originality:** Contribute high-quality content that adds value to learners. Avoid plagiarism, and provide proper attribution when referencing external sources.
 
-- **Code of Conduct:** Follow our [Code of Conduct](CODE_OF_CONDUCT.md) when interacting with the community. Be respectful and considerate in all communications.
+- **Code of Conduct:** Follow our [Code of Conduct] when interacting with the community. Be respectful and considerate in all communications.
 
 - **File Structure:** Maintain the existing file structure. If you're adding new content, ensure it is placed in the appropriate directory.
 
@@ -33,7 +33,7 @@ Thank you for considering contributing to the Cyber Security Learning Repository
 
 - **Testing:** If your contribution involves code or scripts, ensure they are tested and functional. Provide clear instructions on how to use and test your code.
 
-- **Licensing:** By contributing, you agree that your contributions will be licensed under the repository's [MIT License](LICENSE).
+- **Licensing:** By contributing, you agree that your contributions will be licensed under the repository's [MIT License]
 
 ## Review Process
 
